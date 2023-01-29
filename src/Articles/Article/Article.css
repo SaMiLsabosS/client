@@ -11,5 +11,13 @@ img{
   
   .article > h1,.text{
     margin:0;
+    padding-left: 10px;
   }
-  
+
+  p{
+    padding-left: 10px;
+  }
+
+  .article > h1{
+    font-size: x-large;
+  }
