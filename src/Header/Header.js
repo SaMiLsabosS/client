@@ -3,7 +3,7 @@ import './Header.css';
 function Header() {
     return (
     <div className="header">
-          <h1>TFA</h1>
+          <h1>The Financial Ag</h1>
           <div className='rightButtons'>
             <button>
                 <h1>Home</h1>
