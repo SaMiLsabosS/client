@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Header/Header.js';
 import Articles from './Articles/Articles.js';
 import Line from './Line/line.js';
+import Credits from './Credits/Credits.js';
 import React from "react";
 
 
@@ -18,6 +19,8 @@ function App() {
       <Header/>
       <Line/>
       <Articles/>
+      <Line/>
+      <Credits/>
     </div>
   );
 }
