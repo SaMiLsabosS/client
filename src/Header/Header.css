@@ -1,11 +1,13 @@
 .header{
     display: grid;
     justify-content: space-between;
+    align-items: center;
     display: flex;
     font-size: 20px;
     font-family: display;
     padding: 0px 26px;
     margin-top: 0px;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 }
 
 .rightButtons{
@@ -24,6 +26,7 @@ button{
     padding: 0px;
     align-self: flex-end;
     font-family: display;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 }
 
 button:hover{
