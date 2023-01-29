@@ -11,9 +11,6 @@ function Header() {
             <button>
                 <h1>Forum</h1>
             </button>
-            <button>
-                <h1>---</h1>
-            </button>
           </div>
     </div>
     );
